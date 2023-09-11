@@ -14,7 +14,7 @@
 07. Create a parameter value at the parameter store on AWS.
 08. Exit and go back to terminal to run "npm install serverless".
 09. Run "npm install serverless-offline --save-dev".
-10. Create a serverless.js file and input and save the relevant code.
+10. Create a serverless.yml file and input and save the relevant code.
 11. Run "serverless deploy" to deploy serverless application to AWS.
 12. Run "serverless remove" after deployment finish to remove items in AWS.
 
